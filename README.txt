@@ -13,9 +13,11 @@ pip install "fastapi[all]"
 
 OR just run pip install -r backend/requirements.txt to install both in one shot
 
-![Chabot Responses](https://raw.githubusercontent.com/ripun-jay/FoodieBot/refs/heads/master/images/Screenshot%202024-12-15%20210958.png)
+Screenshots of Chatbot Responses
+==================================
 
-![](https://raw.githubusercontent.com/ripun-jay/FoodieBot/refs/heads/master/images/Screenshot%202024-12-15%20211250.png)
+![Chabot Responses](https://raw.githubusercontent.com/ripun-jay/FoodieBot/refs/heads/master/images/Screenshot%202024-12-15%20210958.png)
+![Chabot Responses](https://raw.githubusercontent.com/ripun-jay/FoodieBot/refs/heads/master/images/Screenshot%202024-12-15%20211250.png)
 
 To start fastapi backend server
 ================================
