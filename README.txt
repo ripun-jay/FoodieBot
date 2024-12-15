@@ -18,6 +18,9 @@ Screenshots of Chatbot Responses
 
 ![Chabot Responses](https://raw.githubusercontent.com/ripun-jay/FoodieBot/refs/heads/master/images/Screenshot%202024-12-15%20210958.png)
 ![Chabot Responses](https://raw.githubusercontent.com/ripun-jay/FoodieBot/refs/heads/master/images/Screenshot%202024-12-15%20211250.png)
+![Home Page](https://raw.githubusercontent.com/ripun-jay/Household-Price-Prediction/master/screenshots/Screenshot%202024-03-09%20211444.png)
+![Prediction Page](https://github.com/ripun-jay/Household-Price-Prediction/blob/master/screenshots/Screenshot%202024-03-09%20211636.png)
+
 
 To start fastapi backend server
 ================================
