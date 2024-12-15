@@ -13,6 +13,10 @@ pip install "fastapi[all]"
 
 OR just run pip install -r backend/requirements.txt to install both in one shot
 
+![Chabot Responses](https://raw.githubusercontent.com/ripun-jay/FoodieBot/refs/heads/master/images/Screenshot%202024-12-15%20210958.png)
+
+![](https://raw.githubusercontent.com/ripun-jay/FoodieBot/refs/heads/master/images/Screenshot%202024-12-15%20211250.png)
+
 To start fastapi backend server
 ================================
 1. Go to backend directory in your command prompt
